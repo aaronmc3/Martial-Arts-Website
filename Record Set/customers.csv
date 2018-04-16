@@ -1,0 +1,14 @@
+CustomerID,Firstname,Surname,HouseNo,Street,City,Postcode,Country,DoB,PreviousOrders,vUsername,vPassword,Phonenumber,Email
+1,Test,User,123,"Test Street","Test City",TT3ST1,"Test Country",1970-12-31,NULL,testuser,password,01234567897,test@user.com
+4,Aaron,McEwen,123,"Fake Street",Dundee,DD11DD,Scotland,1988-03-01,NULL,Aaron1,p1zz4,07984561231,amcewen@dundee.ac.uk
+7,Sophia,Peacock,91,"Harehills Lane",Rowston,LN41XF,UK,1958-10-16,NULL,SophPea,ilovedogs,07710547789,sophiapeacock@rhyta.com
+8,Gabriel,Blake,8,"City Walls Rd","Clifton Hampden",OX16YR,"United Kingdom",1948-10-31,NULL,Gabe43,iamgabe,7769933047,gabrielblake@armyspy.com
+9,Matilda,Bray,33,"Trinity Crescent",Wharton,HR61JT,UK,1980-07-27,NULL,Matilda98,12345,07806965290,matildabray@dayrep.com
+10,Dylan,Gilbert,12,"Hampton Court Rd",Southwick,PE80PD,UK,1969-03-02,NULL,DyGilz,pizzarules,07856552474,dylangilbert@rhyta.com
+11,Josh,Peters,8,"Earls Avenue",Whitehouse,PA25DR,UK,1958-05-13,NULL,JayP33,wales,0702374687,joshpeters@armyspy.com
+12,Michael,Cooper,55,"Eastbourne Rd",Coleby,LN59QJ,UK,1969-07-06,NULL,Cooper,p123,07961286384,michaelcooper@dayrep.com
+13,Ella,Brady,16,"Malcolm Rd",Llandyfrydog,LL78NU,Wales,1981-04-04,NULL,EllaElla,123456,07884254887,ellabrady@telework.us
+14,Brandon,Oliver,82,"Prince Consort Road",Kent,ME1,UK,1944-05-30,NULL,Brando666,devil,07947153471,BrandonOliver@teleworm.us
+15,Aidan,Perry,27,"Whatlington Road",Coventry,CV10GQ,UK,1993-08-10,NULL,Aiiidaaan4,poptart,07756882096,AidanPerry@dayrep.com
+16,Samantha,Savage,18,"Hertingforbury Rd","Newlands Corner",GU47QR,"GU4 7QR",1982-09-15,NULL,SavageSam,s4v4g3," 07775991063",SamanthaSavage@armyspy.com
+17,Andrew,Coles,95,"Great Western Road",Longford,TF14UU,UK,1969-02-05,NULL,Coleslaw1969,naylor,07831710610," AndrewColes@dayrep.com"

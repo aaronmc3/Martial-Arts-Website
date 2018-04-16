@@ -1,0 +1,58 @@
+Group 20 Database Notes
+
+host: silva.computing.dundee.ac.uk
+db name: 17ac3d20 <<<<<< note the 'd'
+username: 17ac3u20
+pass: 222aaa
+
+extra users(not in use yet): 17ac3u20, 17ac3user20, 17ac3other20
+
+To access website - https://zeno.computing.dundee.ac.uk/2017-ac32006/team20/index.php
+Place website files here - \\zeno.computing.dundee.ac.uk\2017-ac32006\team20
+
+
+SQL VIEWS - To be decided
+EmployeeView [DONE]
+CustomerView [DONE]
+ProductListView [DONE]
+ProductDetailView [DONE]
+
+
+CUSTOMER SIDE
+Index.php [WORKS]
+Register.php [WORKS]
+Login.php [WORKS]
+ProductList.php
+ProductDetail.php
+ViewOrder.php
+ViewPreviousOrders.php
+
+BUSINESS SIDE
+EmployeeLogin.php [DONE]
+AddEmployee.php [WORKS, NEEDS VALIDATION AND FORMATTING]
+EmployeeDetails.php [DONE, NEEDS FORMATTING]
+ViewCustomerDetails.php
+AddProduct.php
+ViewProduct.php
+SupplyOrder.php 
+
+HANDLER PAGES 
+Logout.php [DONE]
+SubmitCustomerOrder.php
+SubmitSupplyOrder.php
+InsertCustomer.php
+InsertEmployee.php
+
+TASKS
+Implement sessions for currently logged in user using $_SESSION superglobal
+-shopping cart stored in $_SESSION array?
+-
+
+
+USEFUL LINKS
+https://www.w3schools.com/sql/sql_view.asp
+https://stackoverflow.com/questions/2447771/drawing-up-a-session-value-within-sql-query-php-and-mysql
+https://www.w3schools.com/php/php_form_complete.asp
+https://www.w3schools.com/php/php_sessions.asp
+https://www.w3schools.com/sql/sql_alter.asp
+https://www.formget.com/login-form-in-php/

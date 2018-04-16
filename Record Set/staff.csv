@@ -1,0 +1,6 @@
+StaffID,Firstname,Surname,HouseNo,Street,City,Postcode,Country,DateOfBirth,Email,PhoneNumber,JobTitle,Salary,ContractHours,vPassword,DepartmentID,SupervisorID
+1,Bruce,Lee,54,Bang Drive,City,DF34 3FD,Scotland,27/11/1970,brucie@lee.com,1234567892,Big Boss,100000,60,pass123,1,1
+8,Patrick,Brady,60,Roman Road,LEEK WOOTTON,CV31RU,UK,28/07/1956,PatrickBrady@dayrep.com,783178415,Warehouse Manager,30000,50,pass123,1,1
+9,Teagan,McDonald,64,Great North Road,Ancrum,TD80UW,Scotland,10/11/1967,TeaganMcDonald@armyspy.com,775769777,Supervisor,19995,41,pass123,1,1
+10,Robyn,Murray,40,Exning Road,Harberton,TQ9 3LJ, UK,21/09/1967,RobynMurray@jourrapide.com,7042642411,Warehouse picker,25000,45,pass123,1,1
+11,Freya,Clayton,75,Wenlock Terrace,Penygroes,SA1 3WR,Scotland,11/04/1991,FreyaClayton@teleworm.us,7040881496,Mailroom,19755,50,pass123,1,1
